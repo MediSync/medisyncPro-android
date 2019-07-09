@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediPROV2</string>
+    <string name="email">Email</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrar">Registrar</string>
+    <string name="direccion">Dirección</string>
+    <string name="apellido_materno">Apellido Materno</string>
+    <string name="apellido_paterno">Apellido Paterno</string>
+    <string name="nombres">Nombres</string>
+    <string name="rut">Rut</string>
+    <string name="listPatient">Pacientes</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="Account">Cuenta</string>
+
+</resources>

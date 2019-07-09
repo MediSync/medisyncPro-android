@@ -1,0 +1,233 @@
+{
+  "project_info": {
+    "project_number": "466738980188",
+    "firebase_url": "https://projectmedisync.firebaseio.com",
+    "project_id": "projectmedisync",
+    "storage_bucket": "projectmedisync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466738980188:android:22e11deb4f4e0ecf",
+        "android_client_info": {
+          "package_name": "cl.DevStudio.mediPro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466738980188-rkbkv0nr6sgp2qmeuffja9kgb89rrons.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.DevStudio.mediPro",
+            "certificate_hash": "46de3fd5586fcc4b6ccee0f4390d47c4d5a4b99e"
+          }
+        },
+        {
+          "client_id": "466738980188-ejqnr672se1lm1jqbd7oj06ht1c1qihv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyqTsOLBLTJPGR_w6XPaTKE4usHKvdK2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466738980188-ejqnr672se1lm1jqbd7oj06ht1c1qihv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466738980188:android:67e53b4131301197",
+        "android_client_info": {
+          "package_name": "cl.devstudio.mediprov2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466738980188-r2v9fkic96df86i1ad2o1672f5pr8ct3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.devstudio.mediprov2",
+            "certificate_hash": "8f20ee9eecb67a329d346ebdcbbe1fde502568b1"
+          }
+        },
+        {
+          "client_id": "466738980188-ejqnr672se1lm1jqbd7oj06ht1c1qihv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyqTsOLBLTJPGR_w6XPaTKE4usHKvdK2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466738980188-ejqnr672se1lm1jqbd7oj06ht1c1qihv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466738980188:android:4d5b1479a667029c",
+        "android_client_info": {
+          "package_name": "cl.devstudio.mediprov_20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466738980188-bn635d0ugiatqphhj5m5m3q9isrvqlrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.devstudio.mediprov_20",
+            "certificate_hash": "46de3fd5586fcc4b6ccee0f4390d47c4d5a4b99e"
+          }
+        },
+        {
+          "client_id": "466738980188-ejqnr672se1lm1jqbd7oj06ht1c1qihv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyqTsOLBLTJPGR_w6XPaTKE4usHKvdK2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466738980188-ejqnr672se1lm1jqbd7oj06ht1c1qihv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466738980188:android:a836f84063970081",
+        "android_client_info": {
+          "package_name": "cl.devstudio.medisyncpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466738980188-8fgtd2pu41fp6s1pcgg6g8mb4ar4vjqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.devstudio.medisyncpro",
+            "certificate_hash": "8f20ee9eecb67a329d346ebdcbbe1fde502568b1"
+          }
+        },
+        {
+          "client_id": "466738980188-ejqnr672se1lm1jqbd7oj06ht1c1qihv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyqTsOLBLTJPGR_w6XPaTKE4usHKvdK2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466738980188-ejqnr672se1lm1jqbd7oj06ht1c1qihv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466738980188:android:f884dfdb4562ad4e",
+        "android_client_info": {
+          "package_name": "cl.medisyncpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466738980188-3lf8fo80g6iobq2gti10fv9fsbsqbnjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.medisyncpro",
+            "certificate_hash": "459a71cb69b51ecfcefc03a8165346196e49042f"
+          }
+        },
+        {
+          "client_id": "466738980188-ejqnr672se1lm1jqbd7oj06ht1c1qihv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyqTsOLBLTJPGR_w6XPaTKE4usHKvdK2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466738980188-ejqnr672se1lm1jqbd7oj06ht1c1qihv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466738980188:android:44fb96d7c242a4e4",
+        "android_client_info": {
+          "package_name": "cl.medisyncprofesional"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466738980188-4oekkuutj5qj9j4eu6gd3ogrn22tptob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.medisyncprofesional",
+            "certificate_hash": "0d52f74ccfd79fb997fcc0388bcb6cdca2fdf9e8"
+          }
+        },
+        {
+          "client_id": "466738980188-ejqnr672se1lm1jqbd7oj06ht1c1qihv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyqTsOLBLTJPGR_w6XPaTKE4usHKvdK2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466738980188-ejqnr672se1lm1jqbd7oj06ht1c1qihv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

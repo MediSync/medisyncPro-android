@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/White"
+    android:orientation="vertical"
+    tools:context=".Act_Register">
+
+    <include layout="@layout/toolbar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/margin_principal">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <!--               Rut               -->
+
+                <EditText
+                    android:id="@+id/register_rut"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:digits="0123456789-k"
+                    android:hint="@string/rut"
+                    android:inputType="text"
+                    android:maxLength="12"
+                    android:textColorHint="@color/Gray"
+                    android:textSize="16sp" />
+
+
+                <!--               Names               -->
+                <EditText
+                    android:id="@+id/register_names"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/nombres"
+                    android:inputType="textPersonName"
+                    android:textColorHint="@color/Gray"
+                    android:textSize="16sp" />
+
+
+                <!--               LastNames               -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <!--               LastName1               -->
+
+
+                    <EditText
+                        android:id="@+id/register_last_name1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:hint="@string/apellido_paterno"
+                        android:inputType="textEmailAddress"
+                        android:textColorHint="@color/Gray"
+                        android:textSize="16sp" />
+
+
+                    <!--               LastName2               -->
+                    <EditText
+                        android:id="@+id/register_last_name2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:hint="@string/apellido_materno"
+                        android:inputType="textEmailAddress"
+                        android:textColorHint="@color/Gray"
+                        android:textSize="16sp" />
+
+                </LinearLayout>
+
+                <!--               Birth_date and sex              -->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+
+                    <EditText
+                        android:id="@+id/register_birth_date"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:clickable="true"
+                        android:focusable="false"
+                        android:hint="Fecha de nacimiento "
+                        android:inputType="date"
+                        android:maxLines="1"
+                        android:textColorHint="@color/Gray"
+                        android:textSize="16sp" />
+
+                    <Spinner
+                        android:id="@+id/reg_spinnerSex"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                    </Spinner>
+
+                </LinearLayout>
+
+                <!--               Email               -->
+
+                <EditText
+                    android:id="@+id/register_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/email"
+                    android:inputType="textEmailAddress"
+                    android:textColorHint="@color/Gray"
+                    android:textSize="16sp" />
+
+                <!--               Address               -->
+
+                <EditText
+                    android:id="@+id/register_address"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/direccion"
+                    android:inputType="textPostalAddress"
+                    android:textColorHint="@color/Gray"
+                    android:textSize="16sp" />
+
+                <!--               Phone               -->
+
+
+                <EditText
+                    android:id="@+id/register_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Teléfono celular 9 digitos"
+                    android:inputType="phone"
+                    android:maxLength="9"
+                    android:textColorHint="@color/Gray"
+                    android:textSize="16sp" />
+
+                <!--               Password               -->
+
+                <EditText
+                    android:id="@+id/register_password"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Contraseña"
+                    android:inputType="textPassword"
+                    android:textColorHint="@color/Gray"
+                    android:textSize="16sp" />
+
+                <!--               Button               -->
+                <Button
+                    android:id="@+id/btn_Register"
+                    android:layout_marginTop="30dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="30dp"
+                    android:background="@drawable/btn_circle"
+                    android:text="@string/registrar"
+                    android:textAllCaps="false"
+                    android:textColor="@color/White"
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+</LinearLayout>
